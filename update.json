@@ -1,0 +1,9 @@
+{
+  "versionCode": 5,
+  "versionName": "1.4",
+  "minVersionCode": 4,
+  "forceUpdate": false,
+  "apkUrl": "https://github.com/alaminazibor/expressone/releases/download/v1.4/expressone.apk",
+  "releaseNotes": "Courier Receive screen, theme fixes, update checker.",
+  "releaseNotesBn": "কুরিয়ার রিসিভ স্ক্রিন, থিম ফিক্স, আপডেট চেকার।"
+}
